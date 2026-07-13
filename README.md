@@ -154,7 +154,7 @@ Clean REST API for task management built with FastAPI, SQLAlchemy, and Pydantic 
 
 <br/>
 
-💼 Open to Freelance Projects, Internships, and Full-Time Opportunities
+## 💼 Open to Freelance Projects, Internships, and Full-Time Opportunities
 
 ## 🤝 Let's Connect
 
