@@ -165,7 +165,7 @@ Clean REST API for task management built with FastAPI, SQLAlchemy, and Pydantic 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soladev83)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solomon1234u@gmail.com)
 
-*"Code with purpose. Learn continuously. Build for impact."*
+*"Code with purpose. Build for impact."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1e293b&height=100&section=footer" width="100%"/>
 
