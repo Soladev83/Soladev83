@@ -1,142 +1,133 @@
 <div align="center">
 
-# Hi there 👋 I'm Solomon Dawit
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:6366f1&height=220&section=header&text=Solomon%20Dawit&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-### Full Stack Developer • Cybersecurity Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Secure+Web+Architect+%26+Pentester;INSA+Cyber+Talent+Graduate;Building+with+AI+%2B+Cybersecurity" alt="Typing SVG" />
 
-Building secure, scalable, and user-focused web applications while exploring AI and cybersecurity.
+<br/>
 
-[Portfolio](https://solomon-dawitportfolio.vercel.app) •
-[LinkedIn](https://linkedin.com/in/solomon-dawit-79092a309) •
-[Email](mailto:solomon1234u@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=vercel&logoColor=white)](https://solomon-dawitportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/solomon-dawit-79092a309)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solomon1234u@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 🎯 About
 
-🎯 Secure Web Architector & Pentester
+Computer Science & Engineering student and **INSA Cyber Talent graduate**, focused on building secure, scalable, user-first web applications — with a growing specialty in AI and offensive security.
 
-🎓 Computer Science & Engineering Student
+- 🔭 Currently building **AI-powered productivity & security tools**
+- 🌱 Deepening skills in **Node.js · Express · PostgreSQL · TypeScript · Docker**
+- 🧠 Exploring **Full Stack Development · AI · Cybersecurity · Open Source**
+- 📫 Reach me at **solomon1234u@gmail.com**
 
-💻 Passionate about Full Stack Web Development
+<br/>
 
-🔐 INSA Cyber Talent Graduate
+## 🛠️ Tech Stack
 
-🌱 Currently learning
-
-- Node.js
-- Express.js
-- PostgreSQL
-- TypeScript
-- Docker
-  
-🚀 Interested in
-
-- Full Stack Development
-- Artificial Intelligence
-- Cybersecurity
-- Open Source
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,mongodb,postgresql,java,python,cpp,git,github,docker,postman,vscode,linux&theme=dark" />
 </p>
 
-### Backend
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+## 🚀 Featured Projects
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
-</p>
-
----
-
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Anti-Distraction AI
+AI-powered app that helps users stay focused and productive by detecting and reducing digital distractions.
 
-AI-powered application designed to improve focus and productivity.
+`AI` `Productivity` `Automation`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 💊 Smart Pharmacy System
+Full pharmacy management platform with real-time inventory and medicine tracking.
 
-A complete pharmacy management system with inventory and medicine tracking.
+`Full Stack` `Database` `Management System`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ✋ Hand Gesture Translator
+Computer vision app that converts hand gestures into real-time meaningful actions.
 
-Computer vision application that converts hand gestures into meaningful actions.
+`Computer Vision` `Python` `AI`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌤 Weather App
+### 🌤️ Weather App
+Modern, responsive weather app powered by live external APIs.
 
-Modern weather application powered by external APIs.
+`React` `API Integration` `UI/UX`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📈 Productive Journey
+Habit and productivity tracking platform for planning and improving daily routines.
 
-Productivity platform for planning, tracking, and improving daily habits.
+`Full Stack` `Productivity` `Tracking`
 
----
+</td>
+<td width="50%" valign="top">
 
-# 🎯 2026 Goals
-
-✅ Become a professional Full Stack Developer
-
-✅ Contribute to Open Source
-
-✅ Build AI-powered applications
-
-✅ Work with international clients
-
-✅ Grow as a Cybersecurity Engineer
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://solomon-dawitportfolio.vercel.app">Portfolio</a> •
-<a href="https://linkedin.com/in/solomon-dawit-79092a309">LinkedIn</a> •
-<a href="mailto:solomon1234u@gmail.com">Email</a>
-
-</p>
-
----
+<br/>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+**More on my [Portfolio →](https://solomon-dawitportfolio.vercel.app)**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎯 2026 Goals
+
+`✅ Professional Full Stack Developer` `✅ Open Source Contributor` `✅ AI Builder` `✅ International Client Work` `✅ Cybersecurity Growth`
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=solomon-dawit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solomon-dawit&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomon-dawit&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+> ⚠️ Replace `solomon-dawit` above with your actual GitHub username for the stats cards to render correctly.
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=vercel&logoColor=white)](https://solomon-dawitportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/solomon-dawit-79092a309)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solomon1234u@gmail.com)
 
 *"Code with purpose. Learn continuously. Build for impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1e293b&height=100&section=footer" width="100%"/>
 
 </div>
