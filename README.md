@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:6366f1&height=220&section=header&text=Solomon%20Dawit&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Secure+Web+Architect+%26+Pentester;INSA+Cyber+Talent+Graduate;Building+with+AI+%2B+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Secure+Web+Architect+%26+Pentester;CSE+Student;Building+with+AI+%2B+Cybersecurity" alt="Typing SVG" />
 
 <br/>
 
@@ -14,24 +14,63 @@
 
 <br/>
 
-## 🎯 About
+## 👨‍💻 About Me
 
-Computer Science & Engineering student and **INSA Cyber Talent graduate**, focused on building secure, scalable, user-first web applications — with a growing specialty in AI and offensive security.
+🎓 Computer Science & Engineering Student
 
-- 🔭 Currently building **AI-powered productivity & security tools**
-- 🌱 Deepening skills in **Node.js · Express · PostgreSQL · TypeScript · Docker**
-- 🧠 Exploring **Full Stack Development · AI · Cybersecurity · Open Source**
-- 📫 Reach me at **solomon1234u@gmail.com**
+💻 Passionate about Full Stack Web Development
 
-<br/>
+🔐 INSA Cyber Talent Graduate
 
-## 🛠️ Tech Stack
+🌱 Currently learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,mongodb,postgresql,java,python,cpp,git,github,docker,postman,vscode,linux&theme=dark" />
+- Node.js
+- Express.js
+- PostgreSQL
+- TypeScript
+- Docker
+
+🚀 Interested in
+
+- Full Stack Development
+- Artificial Intelligence
+- Cybersecurity
+- Open Source
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
-<br/>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+</p>
+
 
 ## 🚀 Featured Projects
 
@@ -97,24 +136,17 @@ Habit and productivity tracking platform for planning and improving daily routin
 
 <br/>
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-`✅ Professional Full Stack Developer` `✅ Open Source Contributor` `✅ AI Builder` `✅ International Client Work` `✅ Cybersecurity Growth`
+✅ Become a professional Full Stack Developer
 
-<br/>
+✅ Contribute to Open Source
 
-## 📊 GitHub Stats
+✅ Build AI-powered applications
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=solomon-dawit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solomon-dawit&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+✅ Work with international clients
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomon-dawit&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-> ⚠️ Replace `solomon-dawit` above with your actual GitHub username for the stats cards to render correctly.
+✅ Grow as a Cybersecurity Engineer
 
 <br/>
 
@@ -126,7 +158,7 @@ Habit and productivity tracking platform for planning and improving daily routin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/solomon-dawit-79092a309)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solomon1234u@gmail.com)
 
-*"Code with purpose. Learn continuously. Build for impact."*
+*"Code with purpose. Build for impact."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1e293b&height=100&section=footer" width="100%"/>
 
