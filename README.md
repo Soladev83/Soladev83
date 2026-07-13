@@ -83,7 +83,7 @@ Full MERN e-commerce platform with product catalog, cart/wishlist, Stripe checko
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Phish-Shield Pro
+### 🛡️ Phish-Shield Mobile App
 AI-powered mobile app that detects and reports phishing links in real time. React Native (Expo) client with a FastAPI + scikit-learn Random Forest backend, plus a QR scanner and a "Spot the Phish" training game.
 
 `React Native` `TypeScript` `FastAPI` `ML`
@@ -154,6 +154,7 @@ Clean REST API for task management built with FastAPI, SQLAlchemy, and Pydantic 
 
 <br/>
 
+💼 Open to Freelance Projects, Internships, and Full-Time Opportunities
 
 ## 🤝 Let's Connect
 
