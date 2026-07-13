@@ -16,7 +16,7 @@ Building secure, scalable, and user-focused web applications while exploring AI 
 
 ## 👨‍💻 About Me
 
-🎯 Secure Web Architectures & Pentesting
+🎯 Secure Web Architector & Pentester
 
 🎓 Computer Science & Engineering Student
 
@@ -104,24 +104,6 @@ Modern weather application powered by external APIs.
 ### 📈 Productive Journey
 
 Productivity platform for planning, tracking, and improving daily habits.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Soladev83&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Soladev83&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soladev83&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
