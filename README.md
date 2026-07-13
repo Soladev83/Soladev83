@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Solomon Dawit
 
-### Full Stack Developer • Cybersecurity Enthusiast • Computer Science Student
+### Full Stack Developer • Cybersecurity Engineer
 
 Building secure, scalable, and user-focused web applications while exploring AI and cybersecurity.
 
@@ -15,6 +15,8 @@ Building secure, scalable, and user-focused web applications while exploring AI 
 ---
 
 ## 👨‍💻 About Me
+
+🎯 Secure Web Architectures & Pentesting
 
 🎓 Computer Science & Engineering Student
 
@@ -29,7 +31,7 @@ Building secure, scalable, and user-focused web applications while exploring AI 
 - PostgreSQL
 - TypeScript
 - Docker
-
+  
 🚀 Interested in
 
 - Full Stack Development
