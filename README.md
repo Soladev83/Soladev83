@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:6366f1&height=220&section=header&text=Solomon%20Dawit&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Secure+Web+Architect+%26;Building+with+AI+%2B+Cybersecurity,CSE+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Secure+Web+Architect;Building+with+AI+%2B+Cybersecurity;CSE+Student" alt="Typing SVG" />
 
 <br/>
 
