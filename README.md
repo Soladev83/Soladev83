@@ -28,7 +28,6 @@
 - Full Stack Development
 - Artificial Intelligence
 - Cybersecurity
-- Open Source
 
 ---
 
