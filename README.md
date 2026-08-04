@@ -18,9 +18,9 @@
 
 🎓 Computer Science & Engineering Student at ASTU
 
-💻 Passionate about Full Stack Web Development
+💻 Passionate about Full Stack Development
 
-🔐 INSA Cyber Talent 4th Round Graduate
+🔐 INSA Cyber Talent Graduate
 
 
 🚀 Interested in
