@@ -20,7 +20,7 @@
 
 💻 Passionate about Full Stack Development
 
-🔐 INSA Cyber Talent Graduate
+🔐 INSA Cyber Talent Graduate by Cybersecurity
 
 
 🚀 Interested in
